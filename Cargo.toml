@@ -1,0 +1,9 @@
+[package]
+name = "howwide_utf8"
+version = "0.1.0"
+edition = "2018"
+authors = ["Daniel P. Teberian"]
+description = "A tiny crate to take the first byte of a character, and use said byte to determine the width of said character."
+categories = ["no-std"]
+license = "Apache-2.0"
+repository = "https://github.com/LibertyOS-Development/howwide_utf8"
